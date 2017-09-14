@@ -1,2 +1,2 @@
 # Data_Analysis_Learning
-This project is about  records for my course of data analysis.
+This project is about the record for my course of data analysis in Udacity.
